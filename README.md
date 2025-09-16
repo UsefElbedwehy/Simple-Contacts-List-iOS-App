@@ -1,5 +1,10 @@
 # Simple-Contacts-List-iOS-App
 
+<details>
+  <summary>app icon</summary>
+  <img src="https://github.com/user-attachments/assets/5f34d1c3-c636-45d1-9076-2c442604cd51" width="250" />
+</details>
+
 ### app icon
 ![WhatsApp Image 2025-09-16 at 22 58 03](https://github.com/user-attachments/assets/5f34d1c3-c636-45d1-9076-2c442604cd51)
 
