@@ -1,13 +1,8 @@
 # Simple-Contacts-List-iOS-App
 
-<details>
-  <summary>app icon</summary>
-  <img src="https://github.com/user-attachments/assets/5f34d1c3-c636-45d1-9076-2c442604cd51" width="250" />
-</details>
-
 ### app icon
-![WhatsApp Image 2025-09-16 at 22 58 03](https://github.com/user-attachments/assets/5f34d1c3-c636-45d1-9076-2c442604cd51)
-
+ <img src="https://github.com/user-attachments/assets/5f34d1c3-c636-45d1-9076-2c442604cd51" width="250" />
+ 
 ### empty state (No contacts)
 ![WhatsApp Image 2025-09-16 at 22 57 59](https://github.com/user-attachments/assets/e761488a-920b-453e-9f08-caf48b902957)
 
